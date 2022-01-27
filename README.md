@@ -2,7 +2,7 @@
 - :blush: I'm Ozan, a frontend developer.
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: [oznulutas@gmail.com](mailto:oznulutas@gmail.com)
-- :computer: Technologies I use; Vue.js, JavaScript, CSS, Sass, HTML, SQL
+- :computer: Technologies I use; JavaScript, Vue.js, React, TypeScript, CSS, Sass, HTML, SQL
 
 --------------
 
